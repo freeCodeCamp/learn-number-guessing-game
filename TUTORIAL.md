@@ -9,6 +9,7 @@
 - Create the game
 `psql --username=freecodecamp --dbname=postgres`
 Don't forget to commit your work frequently
+the tests will add random users to your database, feel free to delete them
 
 ### 1.1
 
