@@ -15,7 +15,7 @@ Complete the tasks below
 #### SUBTASKS
 
 - Create a `number_guessing_game` folder in the `project` folder for your program
-- Create `number_guess.sh` in your repository and give it executable permissions
+- Create `number_guess.sh` in your `number_guessing_game` folder and give it executable permissions
 - Your script should have a shebang at the top of the file that uses `#!/bin/bash`
 - Turn the `number_guessing_game` folder into a git repository
 - Your git repository should have at least five commits
