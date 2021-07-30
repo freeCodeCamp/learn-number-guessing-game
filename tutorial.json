@@ -14,7 +14,7 @@
         "sudo -u postgres psql -c \"CREATE USER freecodecamp WITH CREATEDB;\""
       ],
       "commits": [
-        "24866c64065709b6f8e71ac5a26f6aeb291422c1"
+        "828713a5cc94af40c41cf3cf13a206a6b5c31538"
       ]
     },
     "testRunner": {
@@ -48,7 +48,7 @@
           "content": "Complete the tasks below",
           "subtasks": [
             "Create a `number_guessing_game` folder in the `project` folder for your program",
-            "Create `number_guess.sh` in your repository and give it executable permissions",
+            "Create `number_guess.sh` in your `number_guessing_game` folder and give it executable permissions",
             "Your script should have a shebang at the top of the file that uses `#!/bin/bash`",
             "Turn the `number_guessing_game` folder into a git repository",
             "Your git repository should have at least five commits",
@@ -66,7 +66,7 @@
           ],
           "setup": {
             "commits": [
-              "9adcec3aab769e844b07f9f68d35d1a876066792"
+              "6f7e9ab9a99cade4d1c33f0d33eeb4cdc321997c"
             ]
           }
         }
