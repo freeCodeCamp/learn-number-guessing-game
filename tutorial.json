@@ -27,7 +27,7 @@
       "directory": ".freeCodeCamp"
     },
     "repo": {
-      "uri": "https://github.com/freeCodeCamp/number-guessing-game",
+      "uri": "https://github.com/freeCodeCamp/learn-number-guessing-game",
       "branch": "v1.0.0"
     },
     "dependencies": [
