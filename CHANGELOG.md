@@ -13,3 +13,4 @@ Whenever something on the version branch gets changed, add the new branch name a
 ## [v1.0.1]
 
 - Fix project name in VSCode settings
+- Remove auto save in VSCode settings
