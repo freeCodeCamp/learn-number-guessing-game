@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": {
     "title": "Number Guessing Game",
     "description": "> Welcome! Are you ready to build a random number guessing game?"
@@ -15,7 +15,7 @@
         "sudo -u postgres psql -c \"CREATE USER freecodecamp WITH CREATEDB;\""
       ],
       "commits": [
-        "9fd84478ba193b8d09c125a8d2a7b007d0e27f6b"
+        "47f4982c77f286132cc95b28aa24c58376dca977"
       ]
     },
     "testRunner": {
@@ -28,7 +28,7 @@
     },
     "repo": {
       "uri": "https://github.com/freeCodeCamp/learn-number-guessing-game",
-      "branch": "v1.0.1"
+      "branch": "v1.0.2"
     },
     "dependencies": [
       {
@@ -77,7 +77,7 @@
           ],
           "setup": {
             "commits": [
-              "362e2ebc7389b3b84cce7d97ae16b9dbabe7dd72"
+              "b1ffc26dd265e38c06a393ede0cefb8ee2735c1b"
             ]
           }
         }
