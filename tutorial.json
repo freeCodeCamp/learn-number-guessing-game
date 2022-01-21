@@ -1,6 +1,6 @@
 {
   "id": "freeCodeCamp/learn-number-guessing-game:v1.0.0",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": {
     "title": "Number Guessing Game",
     "description": "> Welcome! Are you ready to build a random number guessing game?"
@@ -8,15 +8,11 @@
   "config": {
     "setup": {
       "commands": [
-        "sudo cp ~/project/.freeCodeCamp/pg_hba.conf /etc/postgresql/12/main/pg_hba.conf",
-        "sudo chown -R postgres:postgres /var/lib/postgresql/12/main",
-        "sudo service postgresql stop",
-        "cd .freeCodeCamp && npm install",
-        "sudo service postgresql start",
-        "sudo -u postgres psql -c \"CREATE USER freecodecamp WITH CREATEDB;\""
+        "./.freeCodeCamp/setup.sh",
+        "cd .freeCodeCamp && npm install"
       ],
       "commits": [
-        "9fd84478ba193b8d09c125a8d2a7b007d0e27f6b"
+        "0529677d83ac9be88c64bd7279873306f56e0a4a"
       ]
     },
     "testRunner": {
@@ -29,7 +25,17 @@
     },
     "repo": {
       "uri": "https://github.com/freeCodeCamp/learn-number-guessing-game",
-      "branch": "v1.0.1"
+      "branch": "v1.0.2"
+    },
+    "continue": {
+      "commands": [
+        "./.freeCodeCamp/setup.sh"
+      ]
+    },
+    "reset": {
+      "commands": [
+        "./.freeCodeCamp/setup.sh"
+      ]
     },
     "dependencies": [
       {
@@ -38,7 +44,7 @@
       }
     ],
     "webhook": {
-      "url": "http://freecodecamp.org/coderoad-challenge-completed",
+      "url": "http://freecodecamp.dev/coderoad-challenge-completed",
       "events": {
         "init": false,
         "reset": false,
@@ -78,7 +84,7 @@
           ],
           "setup": {
             "commits": [
-              "362e2ebc7389b3b84cce7d97ae16b9dbabe7dd72"
+              "5096118b0a5914b4d326a98332aa9e11d6558f07"
             ]
           }
         }
