@@ -19,3 +19,7 @@ Whenever a new version is created, add the new branch name and the changes here
 
 - Move startup commands to `setup.sh`
 - Run `setup.sh` on continue and reset
+
+## [v1.0.3]
+
+- Add `exit` flag to mocha so tests can't hang
