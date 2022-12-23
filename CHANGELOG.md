@@ -27,3 +27,8 @@ Whenever a new version is created, add the new branch name and the changes here
 ## [v1.0.4]
 
 - Change `getScriptOutput` function so it doesn't add a guess if the script prints an empty line
+
+## [v1.0.5]
+
+- Fix test to not input numbers (-1 and 1001) outside the expected range in case campers have a check to not allow those guesses
+- Minor clarifications to a couple test texts
