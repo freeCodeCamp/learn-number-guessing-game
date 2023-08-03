@@ -32,3 +32,7 @@ Whenever a new version is created, add the new branch name and the changes here
 
 - Fix test to not input numbers (-1 and 1001) outside the expected range in case campers have a check to not allow those guesses
 - Minor clarifications to a couple test texts
+
+## [v1.0.6]
+
+- Fix test: extend time in `getScriptOutput` function to 7500 before stopping process
