@@ -12,7 +12,7 @@
         "cd .freeCodeCamp && npm install"
       ],
       "commits": [
-        "c9d3f144476a7b76d0ac4ffdcf0dd923c67192ff"
+        "b177f5fed5917a41b8f54940fd9281e391736fd0"
       ]
     },
     "testRunner": {
@@ -84,7 +84,7 @@
           ],
           "setup": {
             "commits": [
-              "8da9a3d104db053787c673c19b69217b2428d200"
+              "4fa49de0813232340d15fa81ec72494815789b21"
             ]
           }
         }
