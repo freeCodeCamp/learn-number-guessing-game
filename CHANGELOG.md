@@ -36,3 +36,7 @@ Whenever a new version is created, add the new branch name and the changes here
 ## [v1.0.6]
 
 - Fix test: extend time in `getScriptOutput` function to 7500 before stopping process
+
+## [v2.0.0]
+
+- Add Gitpod config

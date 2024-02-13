@@ -1,6 +1,6 @@
 {
   "id": "freeCodeCamp/learn-number-guessing-game:v1.0.0",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "summary": {
     "title": "Number Guessing Game",
     "description": "> Welcome! Are you ready to build a random number guessing game?"
@@ -12,7 +12,7 @@
         "cd .freeCodeCamp && npm install"
       ],
       "commits": [
-        "0675897b8f215c4d9f43db7e472df4449660ce07"
+        "b177f5fed5917a41b8f54940fd9281e391736fd0"
       ]
     },
     "testRunner": {
@@ -25,7 +25,7 @@
     },
     "repo": {
       "uri": "https://github.com/freeCodeCamp/learn-number-guessing-game",
-      "branch": "v1.0.6"
+      "branch": "v2.0.0"
     },
     "continue": {
       "commands": [
@@ -84,7 +84,7 @@
           ],
           "setup": {
             "commits": [
-              "a79f976404d1c5b8c2589aecd3f560bb4ea347f9"
+              "4fa49de0813232340d15fa81ec72494815789b21"
             ]
           }
         }
